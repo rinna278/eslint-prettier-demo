@@ -1,6 +1,5 @@
-function  sayHi(name){
-    console.log( "Hi, "+name )
-    }
-    
-    sayHi('Alice')
-    
+function sayHi(name) {
+  console.log('Hi, ' + name);
+}
+
+sayHi('Alice');
